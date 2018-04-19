@@ -22,5 +22,5 @@ var share_obj = new nativeShare(config, success, fail);
 
 
 ## 注意
-    获取微信签名需要更改 getWXConfig() 方法中逻辑
-    UC浏览器无法自定义图片，分享之后展示的是页面截图
+    1: 获取微信签名需要更改 getWXConfig() 方法中逻辑
+    2: UC浏览器无法自定义图片，分享之后展示的是页面截图
